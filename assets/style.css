@@ -1,23 +1,28 @@
-body{
-    font-family: 'Poiret One', cursive;
-    
-}
-#trainJumbotron{
-    background-image: url("images/Daniel-Mennerich-flickr-1920x1200.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 300px;
-}
-.btn{
-    background-color: darkgrey;
-}
 #addTable{
     width: 80%;
     margin-left: 48%;
     /* margin-right:20%; */
     
 }
+body{
+    font-family: 'Raleway Dots', cursive;
+    
+}
+.btn{
+    background-color: darkgrey;
+}
+h1{
+    font-size:80px;
+}
+h3{
+    font-size:60px;
+}
+#trainJumbotron{
+
+    height: 300px;
+}
+
+
 th{
     background-color: darkgrey;
 }
