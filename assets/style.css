@@ -1,9 +1,9 @@
 body{
     font-family: 'Poiret One', cursive;
-    color: 85144b;
+    
 }
 #trainJumbotron{
-    background-image: url("images/wallpaper-1820723.jpg");
+    background-image: url("images/Daniel-Mennerich-flickr-1920x1200.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -17,4 +17,10 @@ body{
     margin-left: 48%;
     /* margin-right:20%; */
     
+}
+th{
+    background-color: darkgrey;
+}
+td{
+    color: #0074D9;
 }
